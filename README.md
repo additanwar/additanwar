@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Exploring the 🌎 of Data, one Model at a time
 
-<!--
-**additanwar/additanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3o7bu9HvCRRp7MjpT2/giphy.gif" width="300"/>
+</div>
 
-Here are some ideas to get you started:
+🔭 I am a Masters Grad in Business Analytics(Data Science)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently working on a Reinforcement Learning project to predict future revenue for US banks
+
+👯 I’m looking to collaborate on NLP
+
+🤔 I’m looking for help with how to become a better researcher!
+
+💬 Ask me about my Data Science projects
+
+📫 How to reach me: (https://www.linkedin.com/in/addit-anwar/)
+
+This github is my attempt to figure some of it and share my knowledge
