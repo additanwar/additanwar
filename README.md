@@ -19,11 +19,11 @@
 ### :man_technologist: About Me :
 I am an AI enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: Currently, I’m working as a consultant to build advanced analytical solutions & tools to solve pervasive business problems
+:telescope: Currently, I’m working as a consultant to build advanced analytical solutions & tools to solve pervasive business problems
 
-- :seedling: Exploring Technical Content Writing and MLOps.
+:seedling: Exploring Technical Content Writing and MLOps.
 
-- :zap: In my free time, I solve problems on LeetCode, compete on Kaggle and read articles about cutting-edge AI applications.
+:zap: In my free time, I solve problems on LeetCode, compete on Kaggle and read articles about cutting-edge AI applications.
 
 ### :hammer_and_wrench: Languages and Tools :
 
