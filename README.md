@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3o7bu9HvCRRp7MjpT2/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://[www.linkedin.com/in/ranganathbogolu/](https://www.linkedin.com/in/addit-anwar/)">
+  <a href="https://www.linkedin.com/in/addit-anwar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   <a target="_blank" rel="noopener noreferrer" href="https://additanwar.github.io/" width="150">
     <img src="https://img.shields.io/badge/blog-personal%20website-SteelBlue?style=flat-square&logo=bitdefender&logoColor=black&link=https://additanwar.github.io/" width="150">
@@ -14,13 +14,13 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am an AI enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am an AI/ML enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 :telescope: Currently, I’m working as a consultant to build advanced analytical solutions & tools to solve pervasive business problems
 
-:seedling: Exploring Technical Content Writing and MLOps.
+:seedling: Exploring Technical Content Writing.
 
-:zap: In my free time, I solve problems on LeetCode, compete on Kaggle and read articles about cutting-edge AI applications.
+:zap: In my free time, I solve problems on LeetCode, compete on Kaggle and read articles about cutting-edge AI/ML applications.
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -33,7 +33,7 @@ I am an AI enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 </div>
 </a>  
 
-### 🕐 Break the visit counter by hitting refresh :
+### 📪 Break the visit counter by hitting refresh
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/additanwar">
     <img src="https://profile-counter.glitch.me/additanwar/count.svg" />
 </div>
