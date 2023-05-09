@@ -39,13 +39,15 @@ I am an AI/ML enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
- 
 
 ### 📪 Break the visit counter by hitting refresh
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/additanwar">
     <img src="https://profile-counter.glitch.me/additanwar/count.svg" />
 </div>
 
-![Addit's github stats](https://github-readme-stats.vercel.app/api?username=additanwar&show_icons=true&theme=vue)
+--- 
 
+### 🔥 Some Stats
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=additanwar&show_icons=true&theme=vue)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=additanwar&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=additanwar&hide=html&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
